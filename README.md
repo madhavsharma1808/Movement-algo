@@ -27,4 +27,5 @@ Generation 4-
 
 All agents trained
 
-![4](https://user-images.githubusercontent.com/43724427/87231666-b7113f80-c3d6-11ea-8f1e-165517fa27da.PNG)
+![4](https://user-images.githubusercontent.com/43724427/87231749-7534c900-c3d7-11ea-8c38-803a30c50cbf.PNG)
+
